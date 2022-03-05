@@ -1,9 +1,9 @@
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-# Professional README Generator
+# Title of Project
 
 ## Description 
-The Professional README Generator is a command-line application that dynamically generates a professional README.md file from user input using the inquirer package.
+This is an application that does many things......
 
 ## Table of Contents
 * [Installation](#installation)
@@ -15,16 +15,16 @@ The Professional README Generator is a command-line application that dynamically
 
     
 ## Installation
-To install the Generator: <ol><li>Clone the repository to your local machine</li><li>Run 'npm install' in the command line to install the dependencies in package.json.</li><li>Run 'node index.js' in the command line.</li><li>Answer the prompts in the command line.</li></ol>Your new markdown file will be written in 'README.md'.
+The installation instructions for this project are as follows: <ol><li>One</li><li>Two</li><li>Three</li></ol>
 
 ## Usage
-This application uses the inquirer package to prompt user questions about their project.  It generates a markdown file that formats the user input into a professional README.md file.
+This project is used by the user etc.......
 
 ## Contributing
-To contribute to this application, please email me at <samanthajrexroat@gmail.com>
+Others can contribute to this project by emailing me.
 
 ## Tests
-There are no test instructions for this project.
+There are no test instructions for this project yet.
 
 
  ## License 
